@@ -1,8 +1,9 @@
 # 🌍 Multilingual Language Identifier
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-blue?style=for-the-badge&logo=streamlit)](https://language-identification.onrender.com)
-[![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Deep Learning](https://img.shields.io/badge/Model-Stacked%20LSTM-red?style=for-the-badge&logo=tensorflow)]()
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-blue?style=for-the-badge&logo=streamlit)](https://language-identification.onrender.com)
+[![🐍 Python](https://img.shields.io/badge/Python-3.10%2B-yellow?style=for-the-badge&logo=python)](https://www.python.org/downloads/release/python-3100/)
+[![🧠 Deep Learning](https://img.shields.io/badge/Model-Stacked%20LSTM-red?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
+
 
 > 🚀 **A production-ready deep learning solution for real-time detection of 20+ languages via short text inputs.**
 
